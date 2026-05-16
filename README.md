@@ -47,4 +47,4 @@ This project analyzes ecommerce sales data to identify sales trends, Mostly sale
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots here)
+Screenshot 2026-05-15 113020.png
