@@ -47,4 +47,4 @@ This project analyzes ecommerce sales data to identify sales trends, Mostly sale
 ---
 
 ## 📸 Dashboard Preview
-Screenshot 2026-05-15 113020.png
+https://github.com/Abhijit241/ecommerce-sales-analysis/blob/main/Screenshot%202026-05-15%20112957.png?raw=true
