@@ -39,10 +39,13 @@ This project analyzes ecommerce sales data to identify sales trends, Mostly sale
 ---
 
 ## 📂 Project Files
-- SQL Queries
-- Python Analysis Notebook
-- Power BI Dashboard
-- Cleaned Dataset
+- [SQL Queries](analysis_queries.sql)
+- [SQL connection](setup.sql)
+- [Python Analysis](analysis.py)
+- [Database Connection](db_connection.py)
+- [Visualization Script](visualize.py)
+- [Power BI Dashboard](ecommerce_dashboard1.pbix)
+- [Cleaned Dataset](supersales_cleaned(in)1.csv)
 
 ---
 
